@@ -1,0 +1,16 @@
+
+.container-2
+{
+    margin-top: 48px;
+}
+.imagess
+{
+    width: 1196px;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+}
+.imagess img{
+    width: 373px;
+    height: 572px;
+}
